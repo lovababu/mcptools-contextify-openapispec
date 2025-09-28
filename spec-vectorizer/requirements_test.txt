@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain-ollama
+langchain-huggingface
+langchain-chroma
+chromadb
+sentence-transformers
+numpy==1.26.4
+pdfminer.six
+transformers==4.40.0
+pytest
